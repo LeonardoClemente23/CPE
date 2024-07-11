@@ -1,0 +1,6 @@
+pessoa01
+1.65
+pessoa02
+1.8
+pessoa03
+1.71
